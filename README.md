@@ -1,4 +1,4 @@
-#NeuroStartUp
+# NeuroStartUp
 
 ![logo](image-5.png)
 
